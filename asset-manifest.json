@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/VideoCall/static/css/main.f9dd099c.chunk.css",
+    "main.js": "/VideoCall/static/js/main.1630c76a.chunk.js",
+    "main.js.map": "/VideoCall/static/js/main.1630c76a.chunk.js.map",
+    "runtime~main.js": "/VideoCall/static/js/runtime~main.25162876.js",
+    "runtime~main.js.map": "/VideoCall/static/js/runtime~main.25162876.js.map",
+    "static/css/2.e1ca7e4b.chunk.css": "/VideoCall/static/css/2.e1ca7e4b.chunk.css",
+    "static/js/2.90eef34a.chunk.js": "/VideoCall/static/js/2.90eef34a.chunk.js",
+    "static/js/2.90eef34a.chunk.js.map": "/VideoCall/static/js/2.90eef34a.chunk.js.map",
+    "index.html": "/VideoCall/index.html",
+    "precache-manifest.fcf15333c39ba13450dbd43c55ca455a.js": "/VideoCall/precache-manifest.fcf15333c39ba13450dbd43c55ca455a.js",
+    "service-worker.js": "/VideoCall/service-worker.js",
+    "static/css/2.e1ca7e4b.chunk.css.map": "/VideoCall/static/css/2.e1ca7e4b.chunk.css.map",
+    "static/css/main.f9dd099c.chunk.css.map": "/VideoCall/static/css/main.f9dd099c.chunk.css.map",
+    "static/media/index.css": "/VideoCall/static/media/ag-index-background.2ab67eec.png",
+    "static/media/ag-logo.png": "/VideoCall/static/media/ag-logo.c9b3e104.png",
+    "static/media/icons.css": "/VideoCall/static/media/icons.efe053d4.ttf"
+  }
+}
